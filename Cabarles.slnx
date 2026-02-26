@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="CabarlesData/CabarlesData.sqlproj" Id="9e63c5f7-105b-4e12-9b4a-51ebf71a0710">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="CabarlesWpf/CabarlesWpf.csproj" />
+  <Project Path="Domain/Domain.csproj" />
+  <Project Path="Framework/Framework.csproj" />
+  <Project Path="Repository/Repository.csproj" Id="52f717e4-df5f-4291-91b8-79a64b78a378" />
+</Solution>
