@@ -1,0 +1,106 @@
+D:\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\SajorWPF.exe
+D:\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\SajorWPF.deps.json
+D:\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\SajorWPF.runtimeconfig.json
+D:\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\SajorWPF.dll
+D:\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\SajorWPF.pdb
+D:\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\App.g.cs
+D:\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\SajorWPF_MarkupCompile.cache
+D:\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\SajorWPF_MarkupCompile.lref
+D:\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\MainWindow.baml
+D:\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\SajorWPF.g.resources
+D:\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\SajorWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\SajorWPF.AssemblyInfoInputs.cache
+D:\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\SajorWPF.AssemblyInfo.cs
+D:\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\SajorWPF.csproj.CoreCompileInputs.cache
+D:\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\SajorWPF.dll
+D:\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\refint\SajorWPF.dll
+D:\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\SajorWPF.pdb
+D:\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\SajorWPF.genruntimeconfig.cache
+D:\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\ref\SajorWPF.dll
+D:\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\VIewModel\AddEmployeeModel.g.cs
+D:\New folder\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\Views\AddEmployeeView.baml
+D:\New folder\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\Views\HomeView.baml
+D:\New folder\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\New folder\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\Views\AddEmployeeView.g.cs
+D:\New folder\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\Views\HomeView.g.cs
+D:\New folder\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\Views\MainView.g.cs
+D:\New folder\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\App.g.cs
+D:\New folder\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\New folder\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\SajorWPF_MarkupCompile.cache
+D:\New folder\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\SajorWPF_MarkupCompile.lref
+D:\New folder\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\SajorWPF.dll
+D:\New folder\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\refint\SajorWPF.dll
+D:\New folder\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\SajorWPF.pdb
+D:\New folder\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\SajorWPF.csproj.AssemblyReference.cache
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\SajorWPF.exe
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\SajorWPF.deps.json
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\SajorWPF.runtimeconfig.json
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\SajorWPF.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\SajorWPF.pdb
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Azure.Core.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Azure.Identity.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Dapper.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\System.ClientModel.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\System.Memory.Data.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Domain.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Framework.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Repository.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Domain.pdb
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Framework.pdb
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Repository.pdb
+D:\New folder\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\MainWindow.baml
+D:\New folder\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\Views\MainView.baml
+D:\New folder\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\SajorWPF.g.resources
+D:\New folder\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\SajorWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\SajorWPF.AssemblyInfoInputs.cache
+D:\New folder\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\SajorWPF.AssemblyInfo.cs
+D:\New folder\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\SajorWPF.csproj.CoreCompileInputs.cache
+D:\New folder\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\SajorWPF.csproj.Up2Date
+D:\New folder\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\SajorWPF.genruntimeconfig.cache
+D:\New folder\SajorWPF\SajorWPF\obj\Debug\net10.0-windows\ref\SajorWPF.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\appsettings.json
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\New folder\SajorWPF\SajorWPF\bin\Debug\net10.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll

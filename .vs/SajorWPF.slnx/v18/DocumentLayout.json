@@ -1,0 +1,528 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\SajorWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|d:\\new folder\\sajorwpf\\sajorwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|solutionrelative:sajorwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|d:\\new folder\\sajorwpf\\sajorwpf\\views\\addemployeeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|solutionrelative:sajorwpf\\views\\addemployeeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|d:\\new folder\\sajorwpf\\sajorwpf\\viewmodel\\addviewemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|solutionrelative:sajorwpf\\viewmodel\\addviewemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|d:\\new folder\\sajorwpf\\sajorwpf\\viewmodel\\homeviewmodel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|solutionrelative:sajorwpf\\viewmodel\\homeviewmodel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|d:\\new folder\\sajorwpf\\sajorwpf\\viewmodel\\addemployeemodel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|solutionrelative:sajorwpf\\viewmodel\\addemployeemodel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|d:\\new folder\\sajorwpf\\sajorwpf\\views\\addemployeeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|solutionrelative:sajorwpf\\views\\addemployeeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|d:\\new folder\\sajorwpf\\sajorwpf\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|solutionrelative:sajorwpf\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3C394D-53C7-59A8-756C-828BC2F9D3BA}|Framework\\Framework.csproj|d:\\new folder\\sajorwpf\\framework\\extensions\\employeeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3C394D-53C7-59A8-756C-828BC2F9D3BA}|Framework\\Framework.csproj|solutionrelative:framework\\extensions\\employeeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3C394D-53C7-59A8-756C-828BC2F9D3BA}|Framework\\Framework.csproj|d:\\new folder\\sajorwpf\\framework\\commands\\createemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3C394D-53C7-59A8-756C-828BC2F9D3BA}|Framework\\Framework.csproj|solutionrelative:framework\\commands\\createemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|d:\\new folder\\sajorwpf\\sajorwpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|solutionrelative:sajorwpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3C394D-53C7-59A8-756C-828BC2F9D3BA}|Framework\\Framework.csproj|d:\\new folder\\sajorwpf\\framework\\databaseautosetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3C394D-53C7-59A8-756C-828BC2F9D3BA}|Framework\\Framework.csproj|solutionrelative:framework\\databaseautosetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D310FF-1B4B-46FA-9828-6B4374A2989B}|Repository\\Repository.csproj|d:\\new folder\\sajorwpf\\repository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D310FF-1B4B-46FA-9828-6B4374A2989B}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D310FF-1B4B-46FA-9828-6B4374A2989B}|Repository\\Repository.csproj|d:\\new folder\\sajorwpf\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D310FF-1B4B-46FA-9828-6B4374A2989B}|Repository\\Repository.csproj|solutionrelative:repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D310FF-1B4B-46FA-9828-6B4374A2989B}|Repository\\Repository.csproj|d:\\new folder\\sajorwpf\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3D310FF-1B4B-46FA-9828-6B4374A2989B}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B16C19A-D28A-4F28-BC58-0F032791C0BD}|EmployeeData\\Data.sqlproj|D:\\New folder\\SajorWPF\\EmployeeData\\StoredProcedure\\CreateEmployee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{4B16C19A-D28A-4F28-BC58-0F032791C0BD}|EmployeeData\\Data.sqlproj|solutionrelative:EmployeeData\\StoredProcedure\\CreateEmployee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|d:\\new folder\\sajorwpf\\sajorwpf\\commands\\addemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|solutionrelative:sajorwpf\\commands\\addemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\new folder\\sajorwpf\\domain\\commands\\icreateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\commands\\icreateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|d:\\new folder\\sajorwpf\\sajorwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|solutionrelative:sajorwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|d:\\new folder\\sajorwpf\\sajorwpf\\stores\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|solutionrelative:sajorwpf\\stores\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|d:\\new folder\\sajorwpf\\sajorwpf\\commands\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|solutionrelative:sajorwpf\\commands\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\new folder\\sajorwpf\\domain\\commands\\iupdateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\commands\\iupdateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\new folder\\sajorwpf\\domain\\commands\\ideleteemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\commands\\ideleteemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\new folder\\sajorwpf\\domain\\queries\\ireademployeebyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\queries\\ireademployeebyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\new folder\\sajorwpf\\domain\\queries\\igetallemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\queries\\igetallemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3C394D-53C7-59A8-756C-828BC2F9D3BA}|Framework\\Framework.csproj|d:\\new folder\\sajorwpf\\framework\\queries\\getallemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3C394D-53C7-59A8-756C-828BC2F9D3BA}|Framework\\Framework.csproj|solutionrelative:framework\\queries\\getallemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3C394D-53C7-59A8-756C-828BC2F9D3BA}|Framework\\Framework.csproj|d:\\new folder\\sajorwpf\\framework\\commands\\updateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3C394D-53C7-59A8-756C-828BC2F9D3BA}|Framework\\Framework.csproj|solutionrelative:framework\\commands\\updateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\new folder\\sajorwpf\\domain\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|d:\\new folder\\sajorwpf\\sajorwpf\\sajorwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|solutionrelative:sajorwpf\\sajorwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|d:\\new folder\\sajorwpf\\sajorwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|solutionrelative:sajorwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|d:\\new folder\\sajorwpf\\sajorwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE1F9A1-D61B-B81B-B9FB-AB809DAA70AF}|SajorWPF\\SajorWPF.csproj|solutionrelative:sajorwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SajorWPF\\Repository\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B16C19A-D28A-4F28-BC58-0F032791C0BD}|EmployeeData\\Data.sqlproj|D:\\New folder\\SajorWPF\\EmployeeData\\StoredProcedure\\CreateEmployee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{4B16C19A-D28A-4F28-BC58-0F032791C0BD}|EmployeeData\\Data.sqlproj|solutionrelative:EmployeeData\\StoredProcedure\\CreateEmployee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddViewEmployee.cs",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\SajorWPF\\VIewModel\\AddViewEmployee.cs",
+              "RelativeDocumentMoniker": "SajorWPF\\VIewModel\\AddViewEmployee.cs",
+              "ToolTip": "D:\\New folder\\SajorWPF\\SajorWPF\\VIewModel\\AddViewEmployee.cs",
+              "RelativeToolTip": "SajorWPF\\VIewModel\\AddViewEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T06:44:43.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEmployeeView.xaml.cs",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\SajorWPF\\Views\\AddEmployeeView.xaml.cs",
+              "RelativeDocumentMoniker": "SajorWPF\\Views\\AddEmployeeView.xaml.cs",
+              "ToolTip": "D:\\New folder\\SajorWPF\\SajorWPF\\Views\\AddEmployeeView.xaml.cs",
+              "RelativeToolTip": "SajorWPF\\Views\\AddEmployeeView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T20:12:29.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEmployeeModel.xaml",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\SajorWPF\\VIewModel\\AddEmployeeModel.xaml",
+              "RelativeDocumentMoniker": "SajorWPF\\VIewModel\\AddEmployeeModel.xaml",
+              "ToolTip": "D:\\New folder\\SajorWPF\\SajorWPF\\VIewModel\\AddEmployeeModel.xaml",
+              "RelativeToolTip": "SajorWPF\\VIewModel\\AddEmployeeModel.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-24T07:31:47.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\SajorWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "SajorWPF\\App.xaml.cs",
+              "ToolTip": "D:\\New folder\\SajorWPF\\SajorWPF\\App.xaml.cs",
+              "RelativeToolTip": "SajorWPF\\App.xaml.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAawE0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T20:12:18.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEmployeeView.xaml",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\SajorWPF\\Views\\AddEmployeeView.xaml",
+              "RelativeDocumentMoniker": "SajorWPF\\Views\\AddEmployeeView.xaml",
+              "ToolTip": "D:\\New folder\\SajorWPF\\SajorWPF\\Views\\AddEmployeeView.xaml",
+              "RelativeToolTip": "SajorWPF\\Views\\AddEmployeeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T20:11:46.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\SajorWPF\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "SajorWPF\\Views\\MainView.xaml",
+              "ToolTip": "D:\\New folder\\SajorWPF\\SajorWPF\\Views\\MainView.xaml",
+              "RelativeToolTip": "SajorWPF\\Views\\MainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-05T13:37:16.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeViewModel.xaml",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\SajorWPF\\VIewModel\\HomeViewModel.xaml",
+              "RelativeDocumentMoniker": "SajorWPF\\VIewModel\\HomeViewModel.xaml",
+              "ToolTip": "D:\\New folder\\SajorWPF\\SajorWPF\\VIewModel\\HomeViewModel.xaml",
+              "RelativeToolTip": "SajorWPF\\VIewModel\\HomeViewModel.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-05T13:38:26.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeExtension.cs",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\Framework\\Extensions\\EmployeeExtension.cs",
+              "RelativeDocumentMoniker": "Framework\\Extensions\\EmployeeExtension.cs",
+              "ToolTip": "D:\\New folder\\SajorWPF\\Framework\\Extensions\\EmployeeExtension.cs",
+              "RelativeToolTip": "Framework\\Extensions\\EmployeeExtension.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:33:13.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateEmployee.cs",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\Framework\\Commands\\CreateEmployee.cs",
+              "RelativeDocumentMoniker": "Framework\\Commands\\CreateEmployee.cs",
+              "ToolTip": "D:\\New folder\\SajorWPF\\Framework\\Commands\\CreateEmployee.cs",
+              "RelativeToolTip": "Framework\\Commands\\CreateEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:31:29.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\SajorWPF\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "SajorWPF\\AssemblyInfo.cs",
+              "ToolTip": "D:\\New folder\\SajorWPF\\SajorWPF\\AssemblyInfo.cs",
+              "RelativeToolTip": "SajorWPF\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T20:12:24.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DatabaseAutoSetup.cs",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\Framework\\DatabaseAutoSetup.cs",
+              "RelativeDocumentMoniker": "Framework\\DatabaseAutoSetup.cs",
+              "ToolTip": "D:\\New folder\\SajorWPF\\Framework\\DatabaseAutoSetup.cs",
+              "RelativeToolTip": "Framework\\DatabaseAutoSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T13:23:04.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\Repository\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\New folder\\SajorWPF\\Repository\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T13:09:54.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Repository.csproj",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "D:\\New folder\\SajorWPF\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-05T13:09:01.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateEmployee.sql ",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\EmployeeData\\StoredProcedure\\CreateEmployee.sql",
+              "RelativeDocumentMoniker": "EmployeeData\\StoredProcedure\\CreateEmployee.sql",
+              "ToolTip": "D:\\New folder\\SajorWPF\\EmployeeData\\StoredProcedure\\CreateEmployee.sql\r\n(localdb)\\ProjectModels.EmployeeData_1\r\n(LAPTOP-J5BBNH14\\USER)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-05T13:10:51.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository.cs",
+              "ToolTip": "D:\\New folder\\SajorWPF\\Repository\\Repository.cs",
+              "RelativeToolTip": "Repository\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:58:20.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddEmployeeCommand.cs",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\SajorWPF\\Commands\\AddEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "SajorWPF\\Commands\\AddEmployeeCommand.cs",
+              "ToolTip": "D:\\New folder\\SajorWPF\\SajorWPF\\Commands\\AddEmployeeCommand.cs",
+              "RelativeToolTip": "SajorWPF\\Commands\\AddEmployeeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T13:08:23.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICreateEmployee.cs",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\Domain\\Commands\\ICreateEmployee.cs",
+              "RelativeDocumentMoniker": "Domain\\Commands\\ICreateEmployee.cs",
+              "ToolTip": "D:\\New folder\\SajorWPF\\Domain\\Commands\\ICreateEmployee.cs",
+              "RelativeToolTip": "Domain\\Commands\\ICreateEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T03:01:58.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NavigationStore.cs",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\SajorWPF\\Stores\\NavigationStore.cs",
+              "RelativeDocumentMoniker": "SajorWPF\\Stores\\NavigationStore.cs",
+              "ToolTip": "D:\\New folder\\SajorWPF\\SajorWPF\\Stores\\NavigationStore.cs",
+              "RelativeToolTip": "SajorWPF\\Stores\\NavigationStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T20:11:25.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\SajorWPF\\App.xaml",
+              "RelativeDocumentMoniker": "SajorWPF\\App.xaml",
+              "ToolTip": "D:\\New folder\\SajorWPF\\SajorWPF\\App.xaml",
+              "RelativeToolTip": "SajorWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-22T09:56:36.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DeleteEmployeeCommand.cs",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\SajorWPF\\Commands\\DeleteEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "SajorWPF\\Commands\\DeleteEmployeeCommand.cs",
+              "ToolTip": "D:\\New folder\\SajorWPF\\SajorWPF\\Commands\\DeleteEmployeeCommand.cs",
+              "RelativeToolTip": "SajorWPF\\Commands\\DeleteEmployeeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:57:06.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IDeleteEmployee.cs",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\Domain\\Commands\\IDeleteEmployee.cs",
+              "RelativeDocumentMoniker": "Domain\\Commands\\IDeleteEmployee.cs",
+              "ToolTip": "D:\\New folder\\SajorWPF\\Domain\\Commands\\IDeleteEmployee.cs",
+              "RelativeToolTip": "Domain\\Commands\\IDeleteEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:39:15.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUpdateEmployee.cs",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\Domain\\Commands\\IUpdateEmployee.cs",
+              "RelativeDocumentMoniker": "Domain\\Commands\\IUpdateEmployee.cs",
+              "ToolTip": "D:\\New folder\\SajorWPF\\Domain\\Commands\\IUpdateEmployee.cs",
+              "RelativeToolTip": "Domain\\Commands\\IUpdateEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:31:58.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IReadEmployeeById.cs",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\Domain\\Queries\\IReadEmployeeById.cs",
+              "RelativeDocumentMoniker": "Domain\\Queries\\IReadEmployeeById.cs",
+              "ToolTip": "D:\\New folder\\SajorWPF\\Domain\\Queries\\IReadEmployeeById.cs",
+              "RelativeToolTip": "Domain\\Queries\\IReadEmployeeById.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T03:02:54.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IGetAllEmployee.cs",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\Domain\\Queries\\IGetAllEmployee.cs",
+              "RelativeDocumentMoniker": "Domain\\Queries\\IGetAllEmployee.cs",
+              "ToolTip": "D:\\New folder\\SajorWPF\\Domain\\Queries\\IGetAllEmployee.cs",
+              "RelativeToolTip": "Domain\\Queries\\IGetAllEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T03:02:51.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetAllEmployee.cs",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\Framework\\Queries\\GetAllEmployee.cs",
+              "RelativeDocumentMoniker": "Framework\\Queries\\GetAllEmployee.cs",
+              "ToolTip": "D:\\New folder\\SajorWPF\\Framework\\Queries\\GetAllEmployee.cs",
+              "RelativeToolTip": "Framework\\Queries\\GetAllEmployee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T03:51:00.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateEmployee.cs",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\Framework\\Commands\\UpdateEmployee.cs",
+              "RelativeDocumentMoniker": "Framework\\Commands\\UpdateEmployee.cs",
+              "ToolTip": "D:\\New folder\\SajorWPF\\Framework\\Commands\\UpdateEmployee.cs",
+              "RelativeToolTip": "Framework\\Commands\\UpdateEmployee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:31:33.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\Domain\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\EmployeeModel.cs",
+              "ToolTip": "D:\\New folder\\SajorWPF\\Domain\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "Domain\\Models\\EmployeeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:34:07.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\SajorWPF\\Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\SajorWPF\\Repository\\Class1.cs",
+              "ToolTip": "D:\\SajorWPF\\Repository\\Class1.cs",
+              "RelativeToolTip": "..\\..\\SajorWPF\\Repository\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:42:46.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SajorWPF.csproj",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\SajorWPF\\SajorWPF.csproj",
+              "RelativeDocumentMoniker": "SajorWPF\\SajorWPF.csproj",
+              "ToolTip": "D:\\New folder\\SajorWPF\\SajorWPF\\SajorWPF.csproj",
+              "RelativeToolTip": "SajorWPF\\SajorWPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-24T07:30:54.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\SajorWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SajorWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\New folder\\SajorWPF\\SajorWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SajorWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAvwBcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T09:58:42.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\New folder\\SajorWPF\\SajorWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SajorWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\New folder\\SajorWPF\\SajorWPF\\MainWindow.xaml",
+              "RelativeToolTip": "SajorWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-22T09:57:11.568Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

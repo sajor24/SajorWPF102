@@ -1,0 +1,32 @@
+D:\SajorWPF\Framework\obj\Debug\net10.0\Framework.csproj.AssemblyReference.cache
+D:\SajorWPF\Framework\obj\Debug\net10.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\SajorWPF\Framework\obj\Debug\net10.0\Framework.AssemblyInfoInputs.cache
+D:\SajorWPF\Framework\obj\Debug\net10.0\Framework.AssemblyInfo.cs
+D:\SajorWPF\Framework\obj\Debug\net10.0\Framework.csproj.CoreCompileInputs.cache
+D:\SajorWPF\Framework\bin\Debug\net10.0\Framework.deps.json
+D:\SajorWPF\Framework\bin\Debug\net10.0\Framework.dll
+D:\SajorWPF\Framework\bin\Debug\net10.0\Framework.pdb
+D:\SajorWPF\Framework\bin\Debug\net10.0\Domain.dll
+D:\SajorWPF\Framework\bin\Debug\net10.0\Domain.pdb
+D:\SajorWPF\Framework\obj\Debug\net10.0\Framework.csproj.Up2Date
+D:\SajorWPF\Framework\obj\Debug\net10.0\Framework.dll
+D:\SajorWPF\Framework\obj\Debug\net10.0\refint\Framework.dll
+D:\SajorWPF\Framework\obj\Debug\net10.0\Framework.pdb
+D:\SajorWPF\Framework\obj\Debug\net10.0\ref\Framework.dll
+D:\New folder\SajorWPF\Framework\obj\Debug\net10.0\Framework.csproj.AssemblyReference.cache
+D:\New folder\SajorWPF\Framework\obj\Debug\net10.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\SajorWPF\Framework\obj\Debug\net10.0\Framework.AssemblyInfoInputs.cache
+D:\New folder\SajorWPF\Framework\obj\Debug\net10.0\Framework.AssemblyInfo.cs
+D:\New folder\SajorWPF\Framework\obj\Debug\net10.0\Framework.csproj.CoreCompileInputs.cache
+D:\New folder\SajorWPF\Framework\obj\Debug\net10.0\Framework.dll
+D:\New folder\SajorWPF\Framework\obj\Debug\net10.0\refint\Framework.dll
+D:\New folder\SajorWPF\Framework\obj\Debug\net10.0\Framework.pdb
+D:\New folder\SajorWPF\Framework\bin\Debug\net10.0\Framework.deps.json
+D:\New folder\SajorWPF\Framework\bin\Debug\net10.0\Framework.dll
+D:\New folder\SajorWPF\Framework\bin\Debug\net10.0\Framework.pdb
+D:\New folder\SajorWPF\Framework\bin\Debug\net10.0\Domain.dll
+D:\New folder\SajorWPF\Framework\bin\Debug\net10.0\Repository.dll
+D:\New folder\SajorWPF\Framework\bin\Debug\net10.0\Domain.pdb
+D:\New folder\SajorWPF\Framework\bin\Debug\net10.0\Repository.pdb
+D:\New folder\SajorWPF\Framework\obj\Debug\net10.0\Framework.csproj.Up2Date
+D:\New folder\SajorWPF\Framework\obj\Debug\net10.0\ref\Framework.dll
